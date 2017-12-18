@@ -1,2 +1,2 @@
 # Lime_issue
-Reproducin an issue with lime
+Reproducing an issue with lime
